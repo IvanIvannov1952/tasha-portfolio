@@ -2613,7 +2613,7 @@ __metadata:
     notistack: "npm:^3.0.1"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
-        react-router-dom: "npm:^6.15.0"
+    react-router-dom: "npm:^6.15.0"
     recoil: "npm:^0.7.7"
     typescript: "npm:~5.1.6"
     viewerjs: "npm:^1.11.4"
